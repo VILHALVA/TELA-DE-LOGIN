@@ -21,19 +21,19 @@ O "TELA DE LOGIN" é uma aplicação que oferece uma interface de login para os 
 * Clone o repositório para o seu sistema local:
 
 ```bash
-git clone https://github.com/VILHALVA/ANALISADOR-DE-NUMEROS.git
+git clone https://github.com/VILHALVA/TELA-DE-LOGIN.git
 ```
 
 * Navegue até o diretório do projeto.
 
 ```bash
-cd ANALISADOR-DE-NUMEROS
+cd TELA-DE-LOGIN
 ```
 
 * Descompacte o arquivo ZIP (se você baixou manualmente):
 
 ```bash
-unzip ANALISADOR-DE-NUMEROS.zip
+unzip TELA-DE-LOGIN.zip
 ```
 
 ### EXECUTANDO O APLICATIVO:
